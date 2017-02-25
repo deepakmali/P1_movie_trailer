@@ -18,5 +18,5 @@ This is the first project in the curriculam.
 
 # Credits
 * README.md format is taken from [jxon](https://gist.github.com/jxson/1784669)
-* fresh_tomatoes.py is provided from [Udacity](www.udacity.com) and is modified
-by me.
+* fresh_tomatoes.py is provided from [Udacity](https://www.udacity.com) and is 
+modified by me.
