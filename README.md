@@ -15,3 +15,8 @@ This is the first project in the curriculam.
 * Open the terminal(Linux & Mac), command prompt(Windows).
 * Navigate to the directory where the files are downloaded.
 * Run ``` Python entertainment_center.py ``` This should open the web browser.
+
+# Credits
+* README.md format is taken from [jxon](https://gist.github.com/jxson/1784669)
+* fresh_tomatoes.py is provided from [Udacity](www.udacity.com) and is modified
+by me.
